@@ -1,7 +1,7 @@
 
 Hi there!)))
 
-I’m currently working on collaborative project between the University of Melbourne and CSL Limited.
+I’m currently working on a collaborative project between the University of Melbourne and CSL Limited. The project focuses on creating a hybrid model capable of predicting bioreactor performance at different scales.
 
 
 <!--
